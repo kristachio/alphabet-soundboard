@@ -1,3 +1,3 @@
-# alphabetlore
+# alphabet soundboard
 
-This is my portfolio project for the Nucamp Full Stack Bootcamp.
+Soundboard with letters of the English Alphabet.
